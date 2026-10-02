@@ -1,16 +1,66 @@
-## Hi there 👋
+# 🖥️ vizer10
 
-<!--
-**vizer10/vizer10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Student • Programmer in progress • Future Engineer
 
-Here are some ideas to get you started:
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  vizer@linux ~ $                                             │
+└──────────────────────────────────────────────────────────────┘
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ whoami
+
+> Student from Kazakhstan
+> Learning programming, mathematics & engineering
+
+$ cat interests.txt
+
+> Programming
+> Cybersecurity
+> Robotics
+> Electronics & Hardware
+> Aerospace Engineering
+> Physics & Mathematics
+
+$ cat current_stack.txt
+
+> Python · C · C++ · Git · Linux
+> Algorithms · Data Structures
+> Electronics · Robotics
+
+$ ./status
+
+> Learning .............. [████████░░] 80%
+> Programming ........... [██████░░░░] 60%
+> Mathematics ............ [██████░░░░] 60%
+> Cybersecurity .......... [████░░░░░░] 40%
+
+$ echo $GOAL
+
+> Build things. Understand how they work.
+> Become an engineer.
+[ ] Learn Python properly
+[ ] Learn C / C++
+[ ] Learn Git & GitHub
+[ ] Learn Linux
+[ ] Build my first serious projects
+[ ] Study algorithms & data structures
+[ ] Explore cybersecurity
+[ ] Learn electronics & robotics
+[ ] Build engineering projects
+Programming
+├── Python
+├── C / C++
+├── Algorithms
+└── Git
+
+Computer Science
+├── Data Structures
+├── Computer Architecture
+├── Operating Systems
+└── Networking
+
+Engineering
+├── Physics
+├── Electronics
+├── Robotics
+└── Aerospace
